@@ -1,4 +1,4 @@
-import 'package:flutter_map/src/layer/tile_layer/tile_layer.dart';
+import 'package:flutter_map_forked/src/layer/tile_layer/tile_layer.dart';
 
 abstract class TileDisplay {
   const TileDisplay();

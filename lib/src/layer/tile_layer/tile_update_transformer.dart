@@ -1,8 +1,8 @@
 import 'dart:async';
 
-import 'package:flutter_map/src/core/util.dart';
-import 'package:flutter_map/src/gestures/map_events.dart';
-import 'package:flutter_map/src/layer/tile_layer/tile_update_event.dart';
+import 'package:flutter_map_forked/src/core/util.dart';
+import 'package:flutter_map_forked/src/gestures/map_events.dart';
+import 'package:flutter_map_forked/src/layer/tile_layer/tile_update_event.dart';
 
 typedef TileUpdateTransformer
     = StreamTransformer<TileUpdateEvent, TileUpdateEvent>;

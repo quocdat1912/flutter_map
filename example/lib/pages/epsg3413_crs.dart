@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_map/plugin_api.dart';
+import 'package:flutter_map_forked/plugin_api.dart';
 import 'package:flutter_map_example/widgets/drawer.dart';
 import 'package:latlong2/latlong.dart';
 import 'package:proj4dart/proj4dart.dart' as proj4;
@@ -112,7 +112,7 @@ class _EPSG3413PageState extends State<EPSG3413Page> {
               ),
             ),
             const Text(
-                'Details: https://github.com/fleaflet/flutter_map/pull/1295'),
+                'Details: https://github.com/fleaflet/flutter_map_forked/pull/1295'),
             const Padding(
               padding: EdgeInsets.only(top: 8, bottom: 2),
               child: SizedBox(

@@ -1,7 +1,7 @@
 import 'package:flutter/widgets.dart';
-import 'package:flutter_map/src/layer/tile_layer/tile_coordinates.dart';
-import 'package:flutter_map/src/layer/tile_layer/tile_display.dart';
-import 'package:flutter_map/src/layer/tile_layer/tile_layer.dart';
+import 'package:flutter_map_forked/src/layer/tile_layer/tile_coordinates.dart';
+import 'package:flutter_map_forked/src/layer/tile_layer/tile_display.dart';
+import 'package:flutter_map_forked/src/layer/tile_layer/tile_layer.dart';
 
 class TileImage extends ChangeNotifier {
   bool _disposed = false;

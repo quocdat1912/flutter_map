@@ -1,7 +1,7 @@
 import 'package:flutter/widgets.dart';
-import 'package:flutter_map/src/core/point.dart';
-import 'package:flutter_map/src/layer/tile_layer/tile_builder.dart';
-import 'package:flutter_map/src/layer/tile_layer/tile_image.dart';
+import 'package:flutter_map_forked/src/core/point.dart';
+import 'package:flutter_map_forked/src/layer/tile_layer/tile_builder.dart';
+import 'package:flutter_map_forked/src/layer/tile_layer/tile_image.dart';
 
 class Tile extends StatefulWidget {
   final TileImage tileImage;

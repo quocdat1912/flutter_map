@@ -1,8 +1,8 @@
 import 'dart:math' as math;
 
-import 'package:flutter_map/src/core/bounds.dart';
-import 'package:flutter_map/src/core/point.dart';
-import 'package:flutter_map/src/layer/tile_layer/tile_coordinates.dart';
+import 'package:flutter_map_forked/src/core/bounds.dart';
+import 'package:flutter_map_forked/src/core/point.dart';
+import 'package:flutter_map_forked/src/layer/tile_layer/tile_coordinates.dart';
 
 abstract class TileRange {
   final int zoom;

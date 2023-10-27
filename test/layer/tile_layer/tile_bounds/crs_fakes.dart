@@ -1,5 +1,5 @@
-import 'package:flutter_map/src/core/point.dart';
-import 'package:flutter_map/src/geo/crs/crs.dart';
+import 'package:flutter_map_forked/src/core/point.dart';
+import 'package:flutter_map_forked/src/geo/crs/crs.dart';
 import 'package:latlong2/latlong.dart';
 import 'package:tuple/tuple.dart';
 

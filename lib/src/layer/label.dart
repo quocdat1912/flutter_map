@@ -2,7 +2,7 @@ import 'dart:math' as math;
 
 import 'package:collection/collection.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_map/plugin_api.dart';
+import 'package:flutter_map_forked/plugin_api.dart';
 import 'package:polylabel/polylabel.dart';
 
 class Label {

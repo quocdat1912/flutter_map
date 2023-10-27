@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_map:
+  flutter_map_forked:
     path: ../
   location: ^4.4.0
   latlong2: ^0.8.1

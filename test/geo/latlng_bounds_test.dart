@@ -1,4 +1,4 @@
-import 'package:flutter_map/src/geo/latlng_bounds.dart';
+import 'package:flutter_map_forked/src/geo/latlng_bounds.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:latlong2/latlong.dart';
 

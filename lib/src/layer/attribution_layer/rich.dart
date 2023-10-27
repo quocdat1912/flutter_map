@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_map/plugin_api.dart';
+import 'package:flutter_map_forked/plugin_api.dart';
 import 'package:meta/meta.dart';
 
 /// Position to anchor [RichAttributionWidget] to relative to the [FlutterMap]

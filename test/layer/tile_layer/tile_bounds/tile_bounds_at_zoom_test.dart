@@ -1,8 +1,8 @@
-import 'package:flutter_map/src/core/bounds.dart';
-import 'package:flutter_map/src/core/point.dart';
-import 'package:flutter_map/src/layer/tile_layer/tile_bounds/tile_bounds_at_zoom.dart';
-import 'package:flutter_map/src/layer/tile_layer/tile_coordinates.dart';
-import 'package:flutter_map/src/layer/tile_layer/tile_range.dart';
+import 'package:flutter_map_forked/src/core/bounds.dart';
+import 'package:flutter_map_forked/src/core/point.dart';
+import 'package:flutter_map_forked/src/layer/tile_layer/tile_bounds/tile_bounds_at_zoom.dart';
+import 'package:flutter_map_forked/src/layer/tile_layer/tile_coordinates.dart';
+import 'package:flutter_map_forked/src/layer/tile_layer/tile_range.dart';
 import 'package:test/test.dart';
 import 'package:tuple/tuple.dart';
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_map/flutter_map.dart';
+import 'package:flutter_map_forked/flutter_map.dart';
 
 /// A simple, classic style, attribution widget, to be placed in
 /// [FlutterMap.nonRotatedChildren]

@@ -1,12 +1,12 @@
 import 'package:collection/collection.dart';
-import 'package:flutter_map/src/core/point.dart';
-import 'package:flutter_map/src/layer/tile_layer/tile_bounds/tile_bounds.dart';
-import 'package:flutter_map/src/layer/tile_layer/tile_bounds/tile_bounds_at_zoom.dart';
-import 'package:flutter_map/src/layer/tile_layer/tile_coordinates.dart';
-import 'package:flutter_map/src/layer/tile_layer/tile_display.dart';
-import 'package:flutter_map/src/layer/tile_layer/tile_image.dart';
-import 'package:flutter_map/src/layer/tile_layer/tile_layer.dart';
-import 'package:flutter_map/src/layer/tile_layer/tile_range.dart';
+import 'package:flutter_map_forked/src/core/point.dart';
+import 'package:flutter_map_forked/src/layer/tile_layer/tile_bounds/tile_bounds.dart';
+import 'package:flutter_map_forked/src/layer/tile_layer/tile_bounds/tile_bounds_at_zoom.dart';
+import 'package:flutter_map_forked/src/layer/tile_layer/tile_coordinates.dart';
+import 'package:flutter_map_forked/src/layer/tile_layer/tile_display.dart';
+import 'package:flutter_map_forked/src/layer/tile_layer/tile_image.dart';
+import 'package:flutter_map_forked/src/layer/tile_layer/tile_layer.dart';
+import 'package:flutter_map_forked/src/layer/tile_layer/tile_range.dart';
 
 typedef TileCreator = TileImage Function(TileCoordinates coordinates);
 

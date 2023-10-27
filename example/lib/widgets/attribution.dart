@@ -1,4 +1,4 @@
-import 'package:flutter_map/flutter_map.dart';
+import 'package:flutter_map_forked/flutter_map.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 final standardSingleAttributionLayer = [
